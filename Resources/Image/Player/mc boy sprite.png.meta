@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 2029de00fda5de448b97ca9f42599531
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3868487483604308741
+    second: mc boy sprite_0
+  - first:
+      213: -546044774090182032
+    second: mc boy sprite_1
+  - first:
+      213: -2887581434578228958
+    second: mc boy sprite_2
+  - first:
+      213: -5236478184951297461
+    second: mc boy sprite_3
+  - first:
+      213: 1686292845601782935
+    second: mc boy sprite_4
+  - first:
+      213: -2451998971503078472
+    second: mc boy sprite_5
+  - first:
+      213: -4350113666776032520
+    second: mc boy sprite_6
+  - first:
+      213: 4469628897658653104
+    second: mc boy sprite_7
+  - first:
+      213: -8690929978288223517
+    second: mc boy sprite_8
+  - first:
+      213: 1275422407646227089
+    second: mc boy sprite_9
+  - first:
+      213: 6494603979505432703
+    second: mc boy sprite_10
+  - first:
+      213: -9007572975973815836
+    second: mc boy sprite_11
+  - first:
+      213: 4734775021646149336
+    second: mc boy sprite_12
+  - first:
+      213: -8837440949573006890
+    second: mc boy sprite_13
+  - first:
+      213: -560689458719845628
+    second: mc boy sprite_14
+  - first:
+      213: 7773794734632646716
+    second: mc boy sprite_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc boy sprite_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 759
+        width: 137
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5039746ced0afa530800000000000000
+      internalID: 3868487483604308741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 757
+        width: 138
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07275e8cb2f0c68f0800000000000000
+      internalID: -546044774090182032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 759
+        width: 137
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a3fbfbff3de7d0800000000000000
+      internalID: -2887581434578228958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 763
+        width: 136
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a45e7b5da4457b0800000000000000
+      internalID: -5236478184951297461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 506
+        width: 117
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c7061a86ae66710800000000000000
+      internalID: 1686292845601782935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 503
+        width: 116
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39fe93defb8fdd0800000000000000
+      internalID: -2451998971503078472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 516
+        width: 116
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1e3ffaaa41a3c0800000000000000
+      internalID: -4350113666776032520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 521
+        width: 117
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9c3c22dcf470e30800000000000000
+      internalID: 4469628897658653104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 261
+        width: 116
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea46543b3d936780800000000000000
+      internalID: -8690929978288223517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 247
+        width: 115
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa35a1ce533b110800000000000000
+      internalID: 1275422407646227089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 259
+        width: 116
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787243d8e7712a50800000000000000
+      internalID: 6494603979505432703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 259
+        width: 115
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92cae3a1caef280800000000000000
+      internalID: -9007572975973815836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 137
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67c98dbcc45b140800000000000000
+      internalID: 4734775021646149336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 136
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c535774a1b5580800000000000000
+      internalID: -8837440949573006890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 6
+        width: 137
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40392bf68e70838f0800000000000000
+      internalID: -560689458719845628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc boy sprite_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4
+        width: 136
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b492bf1112eb60800000000000000
+      internalID: 7773794734632646716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 41906780674ef8d4f822d819d51138a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8659380858447737032
+    second: mc girl sprite_0
+  - first:
+      213: -7291809068239083779
+    second: mc girl sprite_1
+  - first:
+      213: -5580647166090064424
+    second: mc girl sprite_2
+  - first:
+      213: -8222900364368209370
+    second: mc girl sprite_3
+  - first:
+      213: 9093886732981377954
+    second: mc girl sprite_4
+  - first:
+      213: -7150706365129540986
+    second: mc girl sprite_5
+  - first:
+      213: -736607532139416765
+    second: mc girl sprite_6
+  - first:
+      213: 2223566704066591529
+    second: mc girl sprite_7
+  - first:
+      213: 7982481301387472282
+    second: mc girl sprite_8
+  - first:
+      213: 4288874092518687076
+    second: mc girl sprite_9
+  - first:
+      213: -271332666822562882
+    second: mc girl sprite_10
+  - first:
+      213: 8045921647249303280
+    second: mc girl sprite_11
+  - first:
+      213: -5374158144855806581
+    second: mc girl sprite_12
+  - first:
+      213: -7760074632947208154
+    second: mc girl sprite_13
+  - first:
+      213: 7000510497352787428
+    second: mc girl sprite_14
+  - first:
+      213: -4406380761518426739
+    second: mc girl sprite_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc girl sprite_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 759
+        width: 133
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc7651df2b3d780800000000000000
+      internalID: -8659380858447737032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 757
+        width: 135
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df623ad394a4eca90800000000000000
+      internalID: -7291809068239083779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 760
+        width: 133
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd496058fe8d82b0800000000000000
+      internalID: -5580647166090064424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_3
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 762
+        width: 134
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a17667fa362ed80800000000000000
+      internalID: -8222900364368209370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 507
+        width: 101
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1efa5dc9f33e70800000000000000
+      internalID: 9093886732981377954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 504
+        width: 101
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a345d627693cc90800000000000000
+      internalID: -7150706365129540986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 516
+        width: 101
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f3fb2a5b07c5f0800000000000000
+      internalID: -736607532139416765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 520
+        width: 101
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b764ae222bbde10800000000000000
+      internalID: 2223566704066591529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 261
+        width: 101
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de56b537877ce60800000000000000
+      internalID: 7982481301387472282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 245
+        width: 101
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c3f28344258b30800000000000000
+      internalID: 4288874092518687076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 260
+        width: 101
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe41a80680c3cf0800000000000000
+      internalID: -271332666822562882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_11
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 259
+        width: 101
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6abeaeb1bd8af60800000000000000
+      internalID: 8045921647249303280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 125
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de81904a72b65b0800000000000000
+      internalID: -5374158144855806581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5
+        width: 125
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62079a86c3dae4490800000000000000
+      internalID: -7760074632947208154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5
+        width: 125
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e52b11053fc62160800000000000000
+      internalID: 7000510497352787428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc girl sprite_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 6
+        width: 126
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85349c1b0469d2c0800000000000000
+      internalID: -4406380761518426739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

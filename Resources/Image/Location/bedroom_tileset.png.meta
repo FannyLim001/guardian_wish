@@ -1,0 +1,7021 @@
+fileFormatVersion: 2
+guid: b41e6713b2d33a64f8f4cab882051210
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3486489301999772209
+    second: bedroom_tileset_0
+  - first:
+      213: -8914984249856286681
+    second: bedroom_tileset_1
+  - first:
+      213: -4739450628017962713
+    second: bedroom_tileset_2
+  - first:
+      213: 5598488711476270102
+    second: bedroom_tileset_3
+  - first:
+      213: 6043723852910049584
+    second: bedroom_tileset_4
+  - first:
+      213: 3292523111315796805
+    second: bedroom_tileset_5
+  - first:
+      213: 3184966262496775126
+    second: bedroom_tileset_6
+  - first:
+      213: 6464167681473397775
+    second: bedroom_tileset_7
+  - first:
+      213: -2772071869076274193
+    second: bedroom_tileset_8
+  - first:
+      213: -2283785557045619719
+    second: bedroom_tileset_9
+  - first:
+      213: -2477753663960708398
+    second: bedroom_tileset_10
+  - first:
+      213: 6399295292829750047
+    second: bedroom_tileset_11
+  - first:
+      213: -4657573361888795069
+    second: bedroom_tileset_12
+  - first:
+      213: -7447605961557993217
+    second: bedroom_tileset_13
+  - first:
+      213: 867134793571496719
+    second: bedroom_tileset_14
+  - first:
+      213: -3735200837151880142
+    second: bedroom_tileset_15
+  - first:
+      213: -5463312550609180047
+    second: bedroom_tileset_16
+  - first:
+      213: -2133707884229416586
+    second: bedroom_tileset_17
+  - first:
+      213: 5286199173906051848
+    second: bedroom_tileset_18
+  - first:
+      213: -7326268512600882127
+    second: bedroom_tileset_19
+  - first:
+      213: -4356573165406718598
+    second: bedroom_tileset_20
+  - first:
+      213: -8687558763329216194
+    second: bedroom_tileset_21
+  - first:
+      213: 9152761942816353424
+    second: bedroom_tileset_22
+  - first:
+      213: 6597538828092782165
+    second: bedroom_tileset_23
+  - first:
+      213: 2091036238197332649
+    second: bedroom_tileset_24
+  - first:
+      213: 5703078585380953713
+    second: bedroom_tileset_25
+  - first:
+      213: 2670165137327438476
+    second: bedroom_tileset_26
+  - first:
+      213: 3900269284838212068
+    second: bedroom_tileset_27
+  - first:
+      213: 5775355765358109632
+    second: bedroom_tileset_28
+  - first:
+      213: 9148588377779373479
+    second: bedroom_tileset_29
+  - first:
+      213: -2064663092374198177
+    second: bedroom_tileset_30
+  - first:
+      213: 4610606263281321977
+    second: bedroom_tileset_31
+  - first:
+      213: 1465609098001767953
+    second: bedroom_tileset_32
+  - first:
+      213: 8130683536155682447
+    second: bedroom_tileset_33
+  - first:
+      213: 5545610905159447065
+    second: bedroom_tileset_34
+  - first:
+      213: 3344929607333235054
+    second: bedroom_tileset_35
+  - first:
+      213: -3171255645597317548
+    second: bedroom_tileset_36
+  - first:
+      213: 1934906572562573673
+    second: bedroom_tileset_37
+  - first:
+      213: -7102825871518823223
+    second: bedroom_tileset_38
+  - first:
+      213: 2704109490224039351
+    second: bedroom_tileset_39
+  - first:
+      213: -4509199846971850246
+    second: bedroom_tileset_40
+  - first:
+      213: -4527939859882076242
+    second: bedroom_tileset_41
+  - first:
+      213: -729804271279592037
+    second: bedroom_tileset_42
+  - first:
+      213: -6757932013807418818
+    second: bedroom_tileset_43
+  - first:
+      213: -1960953788086967114
+    second: bedroom_tileset_44
+  - first:
+      213: -9149942577392566309
+    second: bedroom_tileset_45
+  - first:
+      213: -7266505271137926033
+    second: bedroom_tileset_46
+  - first:
+      213: -7274186387324742143
+    second: bedroom_tileset_47
+  - first:
+      213: 5833039335981562462
+    second: bedroom_tileset_48
+  - first:
+      213: 5294772880644342632
+    second: bedroom_tileset_49
+  - first:
+      213: -6251516692223744350
+    second: bedroom_tileset_50
+  - first:
+      213: 935097763500466415
+    second: bedroom_tileset_51
+  - first:
+      213: 968882643272044415
+    second: bedroom_tileset_52
+  - first:
+      213: 5683495360272435524
+    second: bedroom_tileset_53
+  - first:
+      213: -4247818420465179674
+    second: bedroom_tileset_54
+  - first:
+      213: 8075272587547241646
+    second: bedroom_tileset_55
+  - first:
+      213: 2755411526225234046
+    second: bedroom_tileset_56
+  - first:
+      213: 1016403216123744949
+    second: bedroom_tileset_57
+  - first:
+      213: 2715091399843373345
+    second: bedroom_tileset_58
+  - first:
+      213: 7469630271444029285
+    second: bedroom_tileset_59
+  - first:
+      213: 3998278481440081846
+    second: bedroom_tileset_60
+  - first:
+      213: -3449532444801417629
+    second: bedroom_tileset_61
+  - first:
+      213: 7876231460969233280
+    second: bedroom_tileset_62
+  - first:
+      213: 2993139050893813951
+    second: bedroom_tileset_63
+  - first:
+      213: 7893236067670090097
+    second: bedroom_tileset_64
+  - first:
+      213: -2224407017768791900
+    second: bedroom_tileset_65
+  - first:
+      213: 3734965817076483908
+    second: bedroom_tileset_66
+  - first:
+      213: -714367072271858301
+    second: bedroom_tileset_67
+  - first:
+      213: 8211704802812168039
+    second: bedroom_tileset_68
+  - first:
+      213: -3474133040762852599
+    second: bedroom_tileset_69
+  - first:
+      213: -5342730509133453929
+    second: bedroom_tileset_70
+  - first:
+      213: 2401114104621336224
+    second: bedroom_tileset_71
+  - first:
+      213: -8077540166944549365
+    second: bedroom_tileset_72
+  - first:
+      213: -2066627241086345191
+    second: bedroom_tileset_73
+  - first:
+      213: 7973461653998598137
+    second: bedroom_tileset_74
+  - first:
+      213: 1647423207256061126
+    second: bedroom_tileset_75
+  - first:
+      213: -685139145003506921
+    second: bedroom_tileset_76
+  - first:
+      213: -8505959100659055879
+    second: bedroom_tileset_77
+  - first:
+      213: -8350858543866786602
+    second: bedroom_tileset_78
+  - first:
+      213: 2317145088261398310
+    second: bedroom_tileset_79
+  - first:
+      213: 8243116641738797582
+    second: bedroom_tileset_80
+  - first:
+      213: -6099357984107996575
+    second: bedroom_tileset_81
+  - first:
+      213: -4536523052695244288
+    second: bedroom_tileset_82
+  - first:
+      213: 5157503559957321063
+    second: bedroom_tileset_83
+  - first:
+      213: -622046914446521353
+    second: bedroom_tileset_84
+  - first:
+      213: 17939942163234135
+    second: bedroom_tileset_85
+  - first:
+      213: -6342738566879105342
+    second: bedroom_tileset_86
+  - first:
+      213: 4712953315575867699
+    second: bedroom_tileset_87
+  - first:
+      213: -8984904786842371087
+    second: bedroom_tileset_88
+  - first:
+      213: -4282551528381874333
+    second: bedroom_tileset_89
+  - first:
+      213: 3989154815843673782
+    second: bedroom_tileset_90
+  - first:
+      213: -263399227686423510
+    second: bedroom_tileset_91
+  - first:
+      213: -2179845104279091473
+    second: bedroom_tileset_92
+  - first:
+      213: -8081218239382544677
+    second: bedroom_tileset_93
+  - first:
+      213: -2917871074060509925
+    second: bedroom_tileset_94
+  - first:
+      213: -9213346538176778283
+    second: bedroom_tileset_95
+  - first:
+      213: 7648295179421009435
+    second: bedroom_tileset_96
+  - first:
+      213: 1636719970812702758
+    second: bedroom_tileset_97
+  - first:
+      213: -5583791246082356499
+    second: bedroom_tileset_98
+  - first:
+      213: 6138717034342637601
+    second: bedroom_tileset_99
+  - first:
+      213: -2573958840917307269
+    second: bedroom_tileset_100
+  - first:
+      213: -7047461924348030780
+    second: bedroom_tileset_101
+  - first:
+      213: -6883479018316980008
+    second: bedroom_tileset_102
+  - first:
+      213: 9004945648161160708
+    second: bedroom_tileset_103
+  - first:
+      213: 5461234556213254284
+    second: bedroom_tileset_104
+  - first:
+      213: 4332862246734844359
+    second: bedroom_tileset_105
+  - first:
+      213: -1600612179236999942
+    second: bedroom_tileset_106
+  - first:
+      213: 1093029797416445733
+    second: bedroom_tileset_107
+  - first:
+      213: 8238332023683856002
+    second: bedroom_tileset_108
+  - first:
+      213: 6478279265841378458
+    second: bedroom_tileset_109
+  - first:
+      213: 4384124983841335486
+    second: bedroom_tileset_110
+  - first:
+      213: -1661087407465620006
+    second: bedroom_tileset_111
+  - first:
+      213: -107955347702646160
+    second: bedroom_tileset_112
+  - first:
+      213: 917503261025894693
+    second: bedroom_tileset_113
+  - first:
+      213: -3899733007529479053
+    second: bedroom_tileset_114
+  - first:
+      213: -7616110451741905930
+    second: bedroom_tileset_115
+  - first:
+      213: -7250106327667535125
+    second: bedroom_tileset_116
+  - first:
+      213: 1164430555678262078
+    second: bedroom_tileset_117
+  - first:
+      213: -1503716766374788971
+    second: bedroom_tileset_118
+  - first:
+      213: 5078017200037826341
+    second: bedroom_tileset_119
+  - first:
+      213: -447646341144516370
+    second: bedroom_tileset_120
+  - first:
+      213: 6228030810700514120
+    second: bedroom_tileset_121
+  - first:
+      213: 5925602333683570006
+    second: bedroom_tileset_122
+  - first:
+      213: -7003332390934558517
+    second: bedroom_tileset_123
+  - first:
+      213: -1630451675981296231
+    second: bedroom_tileset_124
+  - first:
+      213: 1675432186621403167
+    second: bedroom_tileset_125
+  - first:
+      213: -8243242498025836124
+    second: bedroom_tileset_126
+  - first:
+      213: 7287214147327849775
+    second: bedroom_tileset_127
+  - first:
+      213: -1354283867661188925
+    second: bedroom_tileset_128
+  - first:
+      213: -3639090179511263843
+    second: bedroom_tileset_129
+  - first:
+      213: -3296309988005713386
+    second: bedroom_tileset_130
+  - first:
+      213: -2289154634464775300
+    second: bedroom_tileset_131
+  - first:
+      213: 5489095812828421339
+    second: bedroom_tileset_132
+  - first:
+      213: -4503907415839444106
+    second: bedroom_tileset_133
+  - first:
+      213: -3349987939574147589
+    second: bedroom_tileset_134
+  - first:
+      213: -214619185295387641
+    second: bedroom_tileset_135
+  - first:
+      213: -6971662225207012393
+    second: bedroom_tileset_136
+  - first:
+      213: 1839967936408533611
+    second: bedroom_tileset_137
+  - first:
+      213: 8773460014077698066
+    second: bedroom_tileset_138
+  - first:
+      213: -4634701762329936530
+    second: bedroom_tileset_139
+  - first:
+      213: 4033522641298998216
+    second: bedroom_tileset_140
+  - first:
+      213: 4322010863290046980
+    second: bedroom_tileset_141
+  - first:
+      213: 8724854819018819244
+    second: bedroom_tileset_142
+  - first:
+      213: 8980602851963080299
+    second: bedroom_tileset_143
+  - first:
+      213: 5214083001095407761
+    second: bedroom_tileset_144
+  - first:
+      213: 1072758972445669797
+    second: bedroom_tileset_145
+  - first:
+      213: -5679099060777353972
+    second: bedroom_tileset_146
+  - first:
+      213: 2398932903251729469
+    second: bedroom_tileset_147
+  - first:
+      213: 2191221190412552103
+    second: bedroom_tileset_148
+  - first:
+      213: 3518884443077245943
+    second: bedroom_tileset_149
+  - first:
+      213: 5856233615901631537
+    second: bedroom_tileset_150
+  - first:
+      213: -4816273460055890149
+    second: bedroom_tileset_151
+  - first:
+      213: -229752794571694008
+    second: bedroom_tileset_152
+  - first:
+      213: -2731067812564267927
+    second: bedroom_tileset_153
+  - first:
+      213: 7445321297082141426
+    second: bedroom_tileset_154
+  - first:
+      213: -6175217081291750490
+    second: bedroom_tileset_155
+  - first:
+      213: -9154776588117063429
+    second: bedroom_tileset_156
+  - first:
+      213: 4825582448223973443
+    second: bedroom_tileset_157
+  - first:
+      213: -2156593434767326808
+    second: bedroom_tileset_158
+  - first:
+      213: -9091219133362356153
+    second: bedroom_tileset_159
+  - first:
+      213: -1964832584863672677
+    second: bedroom_tileset_160
+  - first:
+      213: 4781256544403409161
+    second: bedroom_tileset_161
+  - first:
+      213: 8360792592778777569
+    second: bedroom_tileset_162
+  - first:
+      213: 1449437983451331878
+    second: bedroom_tileset_163
+  - first:
+      213: -6362736715627233989
+    second: bedroom_tileset_164
+  - first:
+      213: -1730831169051520365
+    second: bedroom_tileset_165
+  - first:
+      213: -4147706773555362662
+    second: bedroom_tileset_166
+  - first:
+      213: -1808449361770275835
+    second: bedroom_tileset_167
+  - first:
+      213: 6689132364465075643
+    second: bedroom_tileset_168
+  - first:
+      213: -7047770502358687361
+    second: bedroom_tileset_169
+  - first:
+      213: 2440644944964642857
+    second: bedroom_tileset_170
+  - first:
+      213: 4589233294425751721
+    second: bedroom_tileset_171
+  - first:
+      213: 3274442778495271029
+    second: bedroom_tileset_172
+  - first:
+      213: -4507332451774915050
+    second: bedroom_tileset_173
+  - first:
+      213: -3625753789786139470
+    second: bedroom_tileset_174
+  - first:
+      213: -8549770021338804002
+    second: bedroom_tileset_175
+  - first:
+      213: 7323353087786669718
+    second: bedroom_tileset_176
+  - first:
+      213: -2287178542059933172
+    second: bedroom_tileset_177
+  - first:
+      213: 2370936580333688059
+    second: bedroom_tileset_178
+  - first:
+      213: -629906845523593578
+    second: bedroom_tileset_179
+  - first:
+      213: 5081254748772888383
+    second: bedroom_tileset_180
+  - first:
+      213: -2313181466513741964
+    second: bedroom_tileset_181
+  - first:
+      213: -1898429775799167971
+    second: bedroom_tileset_182
+  - first:
+      213: 6959000451807220344
+    second: bedroom_tileset_183
+  - first:
+      213: 3282053891706245101
+    second: bedroom_tileset_184
+  - first:
+      213: 8643605847641667980
+    second: bedroom_tileset_185
+  - first:
+      213: -7784864113011287451
+    second: bedroom_tileset_186
+  - first:
+      213: -2587780986093459130
+    second: bedroom_tileset_187
+  - first:
+      213: -3840928027008275413
+    second: bedroom_tileset_188
+  - first:
+      213: 2239861716883739901
+    second: bedroom_tileset_189
+  - first:
+      213: -5292030357670565612
+    second: bedroom_tileset_190
+  - first:
+      213: -2858799996036414155
+    second: bedroom_tileset_191
+  - first:
+      213: -5832275083244519161
+    second: bedroom_tileset_192
+  - first:
+      213: 432112742822742656
+    second: bedroom_tileset_193
+  - first:
+      213: 1224593083633238744
+    second: bedroom_tileset_194
+  - first:
+      213: -2022870679039861055
+    second: bedroom_tileset_195
+  - first:
+      213: 2689166935649074536
+    second: bedroom_tileset_196
+  - first:
+      213: -3212019042698234875
+    second: bedroom_tileset_197
+  - first:
+      213: 7588974221270193907
+    second: bedroom_tileset_198
+  - first:
+      213: 5485226528865189658
+    second: bedroom_tileset_199
+  - first:
+      213: -6318611490982132382
+    second: bedroom_tileset_200
+  - first:
+      213: -8632726136734212499
+    second: bedroom_tileset_201
+  - first:
+      213: 7505797022543909078
+    second: bedroom_tileset_202
+  - first:
+      213: 5747424063023208687
+    second: bedroom_tileset_203
+  - first:
+      213: 5218333049831653620
+    second: bedroom_tileset_204
+  - first:
+      213: 2426092746808658935
+    second: bedroom_tileset_205
+  - first:
+      213: -4446678373934106000
+    second: bedroom_tileset_206
+  - first:
+      213: -87532962607795230
+    second: bedroom_tileset_207
+  - first:
+      213: 1906988040937474845
+    second: bedroom_tileset_208
+  - first:
+      213: 2080985579990428606
+    second: bedroom_tileset_209
+  - first:
+      213: -3284648897786567761
+    second: bedroom_tileset_210
+  - first:
+      213: -4364568853505679607
+    second: bedroom_tileset_211
+  - first:
+      213: 8422701743989285125
+    second: bedroom_tileset_212
+  - first:
+      213: -7909457152817273092
+    second: bedroom_tileset_213
+  - first:
+      213: -7068709977309122463
+    second: bedroom_tileset_214
+  - first:
+      213: 8777469309165344741
+    second: bedroom_tileset_215
+  - first:
+      213: 503238079847552498
+    second: bedroom_tileset_216
+  - first:
+      213: 2574119456592390103
+    second: bedroom_tileset_217
+  - first:
+      213: -7564356599839551183
+    second: bedroom_tileset_218
+  - first:
+      213: -5377165866064678332
+    second: bedroom_tileset_219
+  - first:
+      213: 6281483963941585252
+    second: bedroom_tileset_220
+  - first:
+      213: -5282773513842984980
+    second: bedroom_tileset_221
+  - first:
+      213: -5588034402300092206
+    second: bedroom_tileset_222
+  - first:
+      213: 6284421934922732004
+    second: bedroom_tileset_223
+  - first:
+      213: -6402218690025470215
+    second: bedroom_tileset_224
+  - first:
+      213: -6816829338484741040
+    second: bedroom_tileset_225
+  - first:
+      213: 2368471255070003709
+    second: bedroom_tileset_226
+  - first:
+      213: 7972944963072145041
+    second: bedroom_tileset_227
+  - first:
+      213: 5320984967203525517
+    second: bedroom_tileset_228
+  - first:
+      213: 4308638883625262151
+    second: bedroom_tileset_229
+  - first:
+      213: -7747000642934120225
+    second: bedroom_tileset_230
+  - first:
+      213: 4328959491666348626
+    second: bedroom_tileset_231
+  - first:
+      213: -2541577708733178401
+    second: bedroom_tileset_232
+  - first:
+      213: 5018197290197406578
+    second: bedroom_tileset_233
+  - first:
+      213: 7330418534465976993
+    second: bedroom_tileset_234
+  - first:
+      213: 8660759238351253598
+    second: bedroom_tileset_235
+  - first:
+      213: 918152743678107570
+    second: bedroom_tileset_236
+  - first:
+      213: 50515579468323922
+    second: bedroom_tileset_237
+  - first:
+      213: 9210558203022597484
+    second: bedroom_tileset_238
+  - first:
+      213: -8790061414259833172
+    second: bedroom_tileset_239
+  - first:
+      213: -8895989587212367571
+    second: bedroom_tileset_240
+  - first:
+      213: -7068661661447828898
+    second: bedroom_tileset_241
+  - first:
+      213: -5498098923948936824
+    second: bedroom_tileset_242
+  - first:
+      213: 423638439397620301
+    second: bedroom_tileset_243
+  - first:
+      213: 2373044945762561302
+    second: bedroom_tileset_244
+  - first:
+      213: -7329410450639468063
+    second: bedroom_tileset_245
+  - first:
+      213: -747803437778546855
+    second: bedroom_tileset_246
+  - first:
+      213: 4897052013093477027
+    second: bedroom_tileset_247
+  - first:
+      213: -7133522469314198740
+    second: bedroom_tileset_248
+  - first:
+      213: -3660937372157341623
+    second: bedroom_tileset_249
+  - first:
+      213: -5849077348671572794
+    second: bedroom_tileset_250
+  - first:
+      213: -3112174414938647874
+    second: bedroom_tileset_251
+  - first:
+      213: 332314288002496948
+    second: bedroom_tileset_252
+  - first:
+      213: 991765847889504734
+    second: bedroom_tileset_253
+  - first:
+      213: 2068141923969466986
+    second: bedroom_tileset_254
+  - first:
+      213: -3438846780196418290
+    second: bedroom_tileset_255
+  - first:
+      213: 6963935068306335032
+    second: bedroom_tileset_256
+  - first:
+      213: 3538759444740834325
+    second: bedroom_tileset_257
+  - first:
+      213: 7517871582851735483
+    second: bedroom_tileset_258
+  - first:
+      213: -8343908522064935934
+    second: bedroom_tileset_259
+  - first:
+      213: 7899602008426324145
+    second: bedroom_tileset_260
+  - first:
+      213: -515180538472049849
+    second: bedroom_tileset_261
+  - first:
+      213: -8257665499596724299
+    second: bedroom_tileset_262
+  - first:
+      213: 5144030642229532900
+    second: bedroom_tileset_263
+  - first:
+      213: 2903600792966057375
+    second: bedroom_tileset_264
+  - first:
+      213: -3393956288737388208
+    second: bedroom_tileset_265
+  - first:
+      213: 1702532504631567725
+    second: bedroom_tileset_266
+  - first:
+      213: -5126066925416970887
+    second: bedroom_tileset_267
+  - first:
+      213: -3354477150885958234
+    second: bedroom_tileset_268
+  - first:
+      213: 2453879347124850596
+    second: bedroom_tileset_269
+  - first:
+      213: -1085893238841079774
+    second: bedroom_tileset_270
+  - first:
+      213: -4571500957920164197
+    second: bedroom_tileset_271
+  - first:
+      213: -7433065351265475926
+    second: bedroom_tileset_272
+  - first:
+      213: -3443585378895341974
+    second: bedroom_tileset_273
+  - first:
+      213: -8506068657761129213
+    second: bedroom_tileset_274
+  - first:
+      213: 7868194154513550925
+    second: bedroom_tileset_275
+  - first:
+      213: -6164884365894194704
+    second: bedroom_tileset_276
+  - first:
+      213: -5190038696810883688
+    second: bedroom_tileset_277
+  - first:
+      213: 1582371551608510675
+    second: bedroom_tileset_278
+  - first:
+      213: 4779018025844190455
+    second: bedroom_tileset_279
+  - first:
+      213: -1446334504014665012
+    second: bedroom_tileset_280
+  - first:
+      213: 2108563011945615223
+    second: bedroom_tileset_281
+  - first:
+      213: 5813387518800024169
+    second: bedroom_tileset_282
+  - first:
+      213: -7478461175359784504
+    second: bedroom_tileset_283
+  - first:
+      213: -4067030187682203157
+    second: bedroom_tileset_284
+  - first:
+      213: -2734812406619639246
+    second: bedroom_tileset_285
+  - first:
+      213: -5077789557502342805
+    second: bedroom_tileset_286
+  - first:
+      213: 3279312435497544403
+    second: bedroom_tileset_287
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bedroom_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9a19b3708d9fc0800000000000000
+      internalID: -3486489301999772209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202d11fe0d974480800000000000000
+      internalID: -8914984249856286681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721cc76b3c61a3eb0800000000000000
+      internalID: -4739450628017962713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d39e22d3d1bd40800000000000000
+      internalID: 5598488711476270102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039324db2de9fd350800000000000000
+      internalID: 6043723852910049584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543fdb0435461bd20800000000000000
+      internalID: 3292523111315796805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db49b9e0f5433c20800000000000000
+      internalID: 3184966262496775126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0448c6f14655b950800000000000000
+      internalID: 6464167681473397775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30bd7725f9789d0800000000000000
+      internalID: -2772071869076274193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d029c22d5e40e0800000000000000
+      internalID: -2283785557045619719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da03ba9b204d9dd0800000000000000
+      internalID: -2477753663960708398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1352f5f92ddec850800000000000000
+      internalID: 6399295292829750047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346eb4944b9fc5fb0800000000000000
+      internalID: -4657573361888795069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8114a46d9c4a890800000000000000
+      internalID: -7447605961557993217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f53f108ea80c00800000000000000
+      internalID: 867134793571496719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c02d8e0a6e92cc0800000000000000
+      internalID: -3735200837151880142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa10c5e2a6e24b0800000000000000
+      internalID: -5463312550609180047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6792e02fbfb8362e0800000000000000
+      internalID: -2133707884229416586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80332a4242a5c5940800000000000000
+      internalID: 5286199173906051848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348b41aa9dd35a90800000000000000
+      internalID: -7326268512600882127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75fee5c9c75a83c0800000000000000
+      internalID: -4356573165406718598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312e6a55579f6780800000000000000
+      internalID: -8687558763329216194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c684b5e74250f70800000000000000
+      internalID: 9152761942816353424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563150eb9a2f8b50800000000000000
+      internalID: 6597538828092782165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa983e316ad40d10800000000000000
+      internalID: 2091036238197332649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ed4c7d1c7652f40800000000000000
+      internalID: 5703078585380953713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab8069b055e0520800000000000000
+      internalID: 2670165137327438476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10623004a802630800000000000000
+      internalID: 3900269284838212068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3acad287f262050800000000000000
+      internalID: 5775355765358109632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58ec588a056fe70800000000000000
+      internalID: 9148588377779373479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f582d264bd7d853e0800000000000000
+      internalID: -2064663092374198177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7031ae7f92cff30800000000000000
+      internalID: 4610606263281321977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed9f1a5b3e65410800000000000000
+      internalID: 1465609098001767953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f862da1199df5d070800000000000000
+      internalID: 8130683536155682447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912bf808cb7f5fc40800000000000000
+      internalID: 5545610905159447065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c8c371c39b6e20800000000000000
+      internalID: 3344929607333235054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4564838dacf6df3d0800000000000000
+      internalID: -3171255645597317548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692923b64b2ada10800000000000000
+      internalID: 1934906572562573673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8aa29081bd6d90800000000000000
+      internalID: -7102825871518823223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5019e114de68520800000000000000
+      internalID: 2704109490224039351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14ff341aa1c61c0800000000000000
+      internalID: -4509199846971850246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7956fffa68921c0800000000000000
+      internalID: -4527939859882076242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d21d6c1e63fd5f0800000000000000
+      internalID: -729804271279592037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c4c473a00732a0800000000000000
+      internalID: -6757932013807418818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ae185bea49c4e0800000000000000
+      internalID: -1960953788086967114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3b4f44bfd40180800000000000000
+      internalID: -9149942577392566309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64025b94ff282b90800000000000000
+      internalID: -7266505271137926033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d6816506ec0b90800000000000000
+      internalID: -7274186387324742143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5abf0e0f5e13f050800000000000000
+      internalID: 5833039335981562462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8638d2dc1efca7940800000000000000
+      internalID: 5294772880644342632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6249cb0b62e39a0800000000000000
+      internalID: -6251516692223744350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe025b726722afc00800000000000000
+      internalID: 935097763500466415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f854571a9227d00800000000000000
+      internalID: 968882643272044415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4498e9feae4dfde40800000000000000
+      internalID: 5683495360272435524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3efc907a7bc05c0800000000000000
+      internalID: -4247818420465179674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace33d32a1211070800000000000000
+      internalID: 8075272587547241646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780cae2f203d3620800000000000000
+      internalID: 2755411526225234046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2de95075dfa1e00800000000000000
+      internalID: 1016403216123744949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e1643e31fda520800000000000000
+      internalID: 2715091399843373345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0de4f72579a760800000000000000
+      internalID: 7469630271444029285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b70357581dbc7730800000000000000
+      internalID: 3998278481440081846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3d62948cc020d0800000000000000
+      internalID: -3449532444801417629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb3df98cefd4d60800000000000000
+      internalID: 7876231460969233280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb820e3cb14c98920800000000000000
+      internalID: 2993139050893813951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e6c522686a8d60800000000000000
+      internalID: 7893236067670090097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0510e4a915121e0800000000000000
+      internalID: -2224407017768791900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44702173f9345d330800000000000000
+      internalID: 3734965817076483908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3850002ceee0616f0800000000000000
+      internalID: -714367072271858301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670dfbb206d5f170800000000000000
+      internalID: 8211704802812168039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be1eaf76669cfc0800000000000000
+      internalID: -3474133040762852599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7956570b8eecad5b0800000000000000
+      internalID: -5342730509133453929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a682277e88725120800000000000000
+      internalID: 2401114104621336224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_72
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06125ac300d6ef80800000000000000
+      internalID: -8077540166944549365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91027e3497dd153e0800000000000000
+      internalID: -2066627241086345191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f8cc012d67ae60800000000000000
+      internalID: 7973461653998598137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47b37bda2dcd610800000000000000
+      internalID: 1647423207256061126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e950e395ed76f0800000000000000
+      internalID: -685139145003506921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24733b343c4f980800000000000000
+      internalID: -8505959100659055879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc84b266acb1c80800000000000000
+      internalID: -8350858543866786602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9cd65e27282020800000000000000
+      internalID: 2317145088261398310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b3f869ee656270800000000000000
+      internalID: 8243116641738797582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16adc4faa3aba5ba0800000000000000
+      internalID: -6099357984107996575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002bab0b1580b01c0800000000000000
+      internalID: -4536523052695244288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76591138922239740800000000000000
+      internalID: 5157503559957321063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb89c680ab0e57f0800000000000000
+      internalID: -622046914446521353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3ee7484cbf3000800000000000000
+      internalID: 17939942163234135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2002f0e01af7a0800000000000000
+      internalID: -6342738566879105342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_87
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33926e9f116c76140800000000000000
+      internalID: 4712953315575867699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_88
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbd8f43b43f4380800000000000000
+      internalID: -8984904786842371087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_89
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ffd7a23125194c0800000000000000
+      internalID: -4282551528381874333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a6686b235c5730800000000000000
+      internalID: 3989154815843673782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2473a74cc7385cf0800000000000000
+      internalID: -263399227686423510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_92
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6021e4d62afb1e0800000000000000
+      internalID: -2179845104279091473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1231d3deb9df80800000000000000
+      internalID: -8081218239382544677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5c3ab7b3a187d0800000000000000
+      internalID: -2917871074060509925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_95
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe56f432e932080800000000000000
+      internalID: -9213346538176778283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16c8ba71f3342a60800000000000000
+      internalID: 7648295179421009435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6203419442cc6b610800000000000000
+      internalID: 1636719970812702758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea435522736282b0800000000000000
+      internalID: -5583791246082356499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e1a05e9a113550800000000000000
+      internalID: 6138717034342637601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d5a45216774cd0800000000000000
+      internalID: -2573958840917307269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0152708b2623e90800000000000000
+      internalID: -7047461924348030780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ac569d48f870a0800000000000000
+      internalID: -6883479018316980008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e78545b5ef7fc70800000000000000
+      internalID: 9004945648161160708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88dd2ed4e33acb40800000000000000
+      internalID: 5461234556213254284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_105
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d455c14b612c30800000000000000
+      internalID: 4332862246734844359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2a6114bb79c9e0800000000000000
+      internalID: -1600612179236999942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ace34fc83b2f00800000000000000
+      internalID: 1093029797416445733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_108
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286b665b35f645270800000000000000
+      internalID: 8238332023683856002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_109
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f04c3ba877e950800000000000000
+      internalID: 6478279265841378458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb827c8d17a87dc30800000000000000
+      internalID: 4384124983841335486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add1321cdc1a2f8e0800000000000000
+      internalID: -1661087407465620006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a7498ee27708ef0800000000000000
+      internalID: -107955347702646160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52106b1da50abbc00800000000000000
+      internalID: 917503261025894693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f657cd7d51e9c0800000000000000
+      internalID: -3899733007529479053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba8c165e32e4690800000000000000
+      internalID: -7616110451741905930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_116
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2909b25b2726b90800000000000000
+      internalID: -7250106327667535125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_117
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3340d4cb63e82010800000000000000
+      internalID: 1164430555678262078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908e696199b12be0800000000000000
+      internalID: -1503716766374788971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f049b2dbdb87640800000000000000
+      internalID: 5078017200037826341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e3134604a9c9f0800000000000000
+      internalID: -447646341144516370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8430ef956096e6650800000000000000
+      internalID: 6228030810700514120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6555f636de7fb3250800000000000000
+      internalID: 5925602333683570006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8cb52bb4a2fce90800000000000000
+      internalID: -7003332390934558517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc1b5d6d87f59e0800000000000000
+      internalID: -1630451675981296231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1023d862b4504710800000000000000
+      internalID: 1675432186621403167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a134c36f9e1a9d80800000000000000
+      internalID: -8243242498025836124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f257dad58a2612560800000000000000
+      internalID: 7287214147327849775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c043076ffd943de0800000000000000
+      internalID: -1354283867661188925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d5e9033ca5f7dc0800000000000000
+      internalID: -3639090179511263843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae85fc7872142d0800000000000000
+      internalID: -3296309988005713386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73b9c80df94b30e0800000000000000
+      internalID: -2289154634464775300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd8bd2f8f2d2c40800000000000000
+      internalID: 5489095812828421339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67374a96118ee71c0800000000000000
+      internalID: -4503907415839444106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_134
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf517dbc7b37281d0800000000000000
+      internalID: -3349987939574147589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041c72fcf4850df0800000000000000
+      internalID: -214619185295387641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d684c42eaf3f90800000000000000
+      internalID: -6971662225207012393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a3dbfe611e88910800000000000000
+      internalID: 1839967936408533611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e136266791c970800000000000000
+      internalID: 8773460014077698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d72788d4b3eafb0800000000000000
+      internalID: -4634701762329936530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34f14c873f9f730800000000000000
+      internalID: 4033522641298998216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a58cd2bfddafb30800000000000000
+      internalID: 4322010863290046980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c87c4b39e41970800000000000000
+      internalID: 8724854819018819244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_143
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8e1c66b281ac70800000000000000
+      internalID: 8980602851963080299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198c1b53dd42c5840800000000000000
+      internalID: 5214083001095407761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9bc3a0a9433ee00800000000000000
+      internalID: 1072758972445669797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7c1e4e79cf21b0800000000000000
+      internalID: -5679099060777353972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd052f3c8ba4120800000000000000
+      internalID: 2398932903251729469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a749d62018c86e10800000000000000
+      internalID: 2191221190412552103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb7443d1c695d030800000000000000
+      internalID: 3518884443077245943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a48d2275854150800000000000000
+      internalID: 5856233615901631537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172a384ec8292db0800000000000000
+      internalID: -4816273460055890149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a665fc01cfccf0800000000000000
+      internalID: -229752794571694008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c8a965b4c491ad0800000000000000
+      internalID: -2731067812564267927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa4b3fc548135760800000000000000
+      internalID: 7445321297082141426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34ea248c83d4aa0800000000000000
+      internalID: -6175217081291750490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8483b7233b3f080800000000000000
+      internalID: -9154776588117063429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340ffbc6ba9e7f240800000000000000
+      internalID: 4825582448223973443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a101cb72bd3212e0800000000000000
+      internalID: -2156593434767326808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c3b49d5085d180800000000000000
+      internalID: -9091219133362356153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9696189c238bb4e0800000000000000
+      internalID: -1964832584863672677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094d25be7f6a5240800000000000000
+      internalID: 4781256544403409161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3db45d090870470800000000000000
+      internalID: 8360792592778777569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d339f9a207d1410800000000000000
+      internalID: 1449437983451331878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3df3b91ba403b7a0800000000000000
+      internalID: -6362736715627233989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392928ad83adaf7e0800000000000000
+      internalID: -1730831169051520365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9440c93aa26076c0800000000000000
+      internalID: -4147706773555362662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c966513e817e6e0800000000000000
+      internalID: -1808449361770275835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57287e17294dc50800000000000000
+      internalID: 6689132364465075643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f712f6c911a413e90800000000000000
+      internalID: -7047770502358687361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928687775a9eed120800000000000000
+      internalID: 2440644944964642857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a084a1dd5b30bf30800000000000000
+      internalID: 4589233294425751721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570cd89bb58217d20800000000000000
+      internalID: 3274442778495271029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9d57140db271c0800000000000000
+      internalID: -4507332451774915050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b455c4632cbeadc0800000000000000
+      internalID: -3625753789786139470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed011d6d67d195980800000000000000
+      internalID: -8549770021338804002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d84225d6c1a560800000000000000
+      internalID: 7323353087786669718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023f96eb3f4240e0800000000000000
+      internalID: -2287178542059933172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d4cf024247e020800000000000000
+      internalID: 2370936580333688059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696baf6bf0f1247f0800000000000000
+      internalID: -629906845523593578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fefd9b54e348640800000000000000
+      internalID: 5081254748772888383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776e6346bde5efd0800000000000000
+      internalID: -2313181466513741964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14577e5d2c67a5e0800000000000000
+      internalID: -1898429775799167971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87290c16a06539060800000000000000
+      internalID: 6959000451807220344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defc6dc10a23c8d20800000000000000
+      internalID: 3282053891706245101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89bb2ff8b144f770800000000000000
+      internalID: 8643605847641667980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a964fc55b96f390800000000000000
+      internalID: -7784864113011287451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a36f57ea561cd0800000000000000
+      internalID: -2587780986093459130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_188
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c645e3f4842bac0800000000000000
+      internalID: -3840928027008275413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df41adc3d56951f10800000000000000
+      internalID: 2239861716883739901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41966769d6eee86b0800000000000000
+      internalID: -5292030357670565612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358c58dc808358d0800000000000000
+      internalID: -2858799996036414155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70149d666b89f0fa0800000000000000
+      internalID: -5832275083244519161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a8eda004c2ff500800000000000000
+      internalID: 432112742822742656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d20c50ebe0aef010800000000000000
+      internalID: 1224593083633238744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce9645c5d15de3e0800000000000000
+      internalID: -2022870679039861055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db6158417d15520800000000000000
+      internalID: 2689166935649074536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5047e2cd2bd9c63d0800000000000000
+      internalID: -3212019042698234875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6186c98d3715960800000000000000
+      internalID: 7588974221270193907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_199
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ffe8d47707f1c40800000000000000
+      internalID: 5485226528865189658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650f4e8358cf48a0800000000000000
+      internalID: -6318611490982132382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1ab81155623880800000000000000
+      internalID: -8632726136734212499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d01ae4ef92f92860800000000000000
+      internalID: 7505797022543909078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d702fbb3f2cf40800000000000000
+      internalID: 5747424063023208687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f085eac24e3b6840800000000000000
+      internalID: 5218333049831653620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8eadcf763ba120800000000000000
+      internalID: 2426092746808658935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07afe3314993a42c0800000000000000
+      internalID: -4446678373934106000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ff99fb3509cef0800000000000000
+      internalID: -87532962607795230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b0ff2058bf67a10800000000000000
+      internalID: 1906988040937474845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2a060c5521ec10800000000000000
+      internalID: 2080985579990428606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ad83fa359a62d0800000000000000
+      internalID: -3284648897786567761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f5f0190cfed63c0800000000000000
+      internalID: -4364568853505679607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5016b8b5c9273e470800000000000000
+      internalID: 8422701743989285125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6672820a6fb3290800000000000000
+      internalID: -7909457152817273092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fa3e2ab5e6ed90800000000000000
+      internalID: -7068709977309122463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e791b7e4d5dfc970800000000000000
+      internalID: 8777469309165344741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f553ca0e5cdbf600800000000000000
+      internalID: 503238079847552498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76c9be10c19b320800000000000000
+      internalID: 2574119456592390103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1319e2800c1060790800000000000000
+      internalID: -7564356599839551183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442fbde52287065b0800000000000000
+      internalID: -5377165866064678332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4610d0d62605c2750800000000000000
+      internalID: 6281483963941585252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7fb8e7a71dfa6b0800000000000000
+      internalID: -5282773513842984980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ad3a51505372b0800000000000000
+      internalID: -5588034402300092206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e11eb91470c63750800000000000000
+      internalID: 6284421934922732004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64aa69500c627a0800000000000000
+      internalID: -6402218690025470215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce72175d1c561a0800000000000000
+      internalID: -6816829338484741040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1db2bce008ed020800000000000000
+      internalID: 2368471255070003709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b7a1933795ae60800000000000000
+      internalID: 7972944963072145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d831c59c2afe7d940800000000000000
+      internalID: 5320984967203525517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5beb8c3c5bcb30800000000000000
+      internalID: 4308638883625262151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0603be5ff1d7490800000000000000
+      internalID: -7747000642934120225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_231
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a04dbc8bd831c30800000000000000
+      internalID: 4328959491666348626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd58ed2a808abcd0800000000000000
+      internalID: -2541577708733178401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735b0f09d734a540800000000000000
+      internalID: 5018197290197406578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab8c1a1d0eab560800000000000000
+      internalID: 7330418534465976993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_235
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50fb1ff3a2313870800000000000000
+      internalID: 8660759238351253598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_236
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfdb784e0fedbc00800000000000000
+      internalID: 918152743678107570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_237
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c15d1e6a773b000800000000000000
+      internalID: 50515579468323922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd832d2e972df70800000000000000
+      internalID: 9210558203022597484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_239
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cc2927bd630680800000000000000
+      internalID: -8790061414259833172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_240
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2902a87a981b8480800000000000000
+      internalID: -8895989587212367571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acaf79ba117ed90800000000000000
+      internalID: -7068661661447828898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f01aa824d2b3b0800000000000000
+      internalID: -5498098923948936824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_243
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4afe758ae011e500800000000000000
+      internalID: 423638439397620301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da6342ecfbee020800000000000000
+      internalID: 2373044945762561302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9499c2704b84a90800000000000000
+      internalID: -7329410450639468063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc4614cb44f95f0800000000000000
+      internalID: -747803437778546855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_247
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5c073cd2d5f340800000000000000
+      internalID: 4897052013093477027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238243fb13a00d90800000000000000
+      internalID: -7133522469314198740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9401c934bdcb13dc0800000000000000
+      internalID: -3660937372157341623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b5a02427e3dea0800000000000000
+      internalID: -5849077348671572794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_251
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2d58ecbd55fc4d0800000000000000
+      internalID: -3112174414938647874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_252
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9fc22951e9c9400800000000000000
+      internalID: 332314288002496948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed961d7b8c573cd00800000000000000
+      internalID: 991765847889504734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_254
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620b435f1483bc10800000000000000
+      internalID: 2068141923969466986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_255
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d856db213c640d0800000000000000
+      internalID: -3438846780196418290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e8415c0ed4a060800000000000000
+      internalID: 6963935068306335032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_257
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514065147f23c1130800000000000000
+      internalID: 3538759444740834325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf91ea8f58d45860800000000000000
+      internalID: 7517871582851735483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_259
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20407f7386b743c80800000000000000
+      internalID: -8343908522064935934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a63b3c2601ad60800000000000000
+      internalID: 7899602008426324145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_261
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743dd21a706b9d8f0800000000000000
+      internalID: -515180538472049849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_262
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e986aaf0e66d80800000000000000
+      internalID: -8257665499596724299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_263
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d0d76d94436740800000000000000
+      internalID: 5144030642229532900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_264
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc84a8989ab4820800000000000000
+      internalID: 2903600792966057375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_265
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059da92ccbe36e0d0800000000000000
+      internalID: -3393956288737388208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_266
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ee15ea4c90a710800000000000000
+      internalID: 1702532504631567725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_267
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97584a75a4d8cd8b0800000000000000
+      internalID: -5126066925416970887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_268
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2746ddc08271d0800000000000000
+      internalID: -3354477150885958234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_269
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4b07d34eed0220800000000000000
+      internalID: 2453879347124850596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_270
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22801e24ad12ee0f0800000000000000
+      internalID: -1085893238841079774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_271
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b968fc08914ce80c0800000000000000
+      internalID: -4571500957920164197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_272
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2ae81f17278d890800000000000000
+      internalID: -7433065351265475926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_273
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d631c75de530d0800000000000000
+      internalID: -3443585378895341974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_274
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d60137f9f54f980800000000000000
+      internalID: -8506068657761129213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_275
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec59365e0713d60800000000000000
+      internalID: 7868194154513550925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96489055ee17aa0800000000000000
+      internalID: -6164884365894194704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_277
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8955e02ad4749f7b0800000000000000
+      internalID: -5190038696810883688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_278
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81f4cda86b5f510800000000000000
+      internalID: 1582371551608510675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_279
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca1adf29b725240800000000000000
+      internalID: 4779018025844190455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_280
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaa0dd7e669debe0800000000000000
+      internalID: -1446334504014665012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_281
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fcb8143ee134d10800000000000000
+      internalID: 2108563011945615223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_282
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d3cfc52d4da050800000000000000
+      internalID: 5813387518800024169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_283
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c931200f2b273890800000000000000
+      internalID: -7478461175359784504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_284
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97964a7910f87c0800000000000000
+      internalID: -4067030187682203157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_285
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232fa181b9efb0ad0800000000000000
+      internalID: -2734812406619639246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_286
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6982ecfc411889b0800000000000000
+      internalID: -5077789557502342805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_tileset_287
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da2a591945728d20800000000000000
+      internalID: 3279312435497544403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
